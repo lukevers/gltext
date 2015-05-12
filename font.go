@@ -6,8 +6,8 @@ package gltext
 
 import (
 	"fmt"
-	"github.com/go-gl/gl"
-	"github.com/go-gl/glh"
+	"github.com/go-gl/gl/v4.5-core/gl"
+	"github.com/lukevers/glh"
 	"image"
 )
 
